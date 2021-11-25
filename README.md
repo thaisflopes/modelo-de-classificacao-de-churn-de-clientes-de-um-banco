@@ -1,0 +1,2 @@
+# modelo-de-classificacao-de-churn-de-clientes-de-um-banco
+Trata-se de um projeto para criação de um modelo de classificação de churn de clientes de um banco, em que foram comparados dois modelos, um de SVM e outro de KNN. Também foi trabalhado um problema de desbalanceamento das classes, com aplicação da técnica undersampling. Este projeto foi desenvolvido na disciplina Fundamentos da Mineração de Dados (Data Mining) em 09/10/2020.
